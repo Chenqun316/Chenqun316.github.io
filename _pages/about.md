@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 # Basic information
-Professor&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Address: Northwestern Polytechnical University Xi'an Shaanxi, China<br/>
-Tel / Wechat: 13299168988&emsp;&emsp;&emsp;&emsp;&nbsp;Office: Room 316, School of Computer Science<br/>
-Email: chenbenben@nwpu.edu.cn
+Professor&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Office: Room 316, School of Computer Science<br/>
+Tel / Wechat: 13299168988&emsp;&emsp;&emsp;&emsp;&nbsp;Email: chenbenben@nwpu.edu.cn<br/>
+
 # Bio
 
 Sep 1993 - Jul 1998. Undergraduate, Management Information System, Tsinghua University.
