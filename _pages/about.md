@@ -1,6 +1,7 @@
 ---
 permalink: /
 excerpt: "About me"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,4 +27,4 @@ Mar 2007 - Now. Professor and doctoral supervisor, Northwestern Polytechnical Un
 
 # Recent Publications
 Supervised Gradual Machine Learning for Aspect-Term Sentiment Analysis. Transactions of ACL (TACL), 2023.<br />
-Yanyan Wang,Qun Chen,Murtadha H.M.Ahmed,Zhaoqiang Chen,Jing Su,Wei Pan,Zhanhuai Li.<br />（https://chenbenben.org.cn/paper/tacl-sgml.pdf）
+Yanyan Wang,Qun Chen,Murtadha H.M.Ahmed,Zhaoqiang Chen,Jing Su,Wei Pan,Zhanhuai Li.<br />[pdf]: https://chenbenben.org.cn/paper/tacl-sgml.pdf/
