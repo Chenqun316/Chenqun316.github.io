@@ -24,9 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Qun Chen 陈群"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  Address          : "Northwestern Polytechnical University Xi'an Shaanxi, China"
-  Office           : "Room 316, School of Computer Science"
+  bio              : "Northwestern Polytechnical University Xi'an Shaanxi, China"
+  location         : "Room 316, School of Computer Science"
   uri              : # URL
   email            : "chenbenben@nwpu.edu.cn" 
 
