@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Basic information
 Professor&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Office: Room 316, School of Computer Science<br/>
-Tel / Wechat: 13299168988&emsp;&emsp;&emsp;&emsp;&nbsp;Email: chenbenben@nwpu.edu.cn<br/>
+Tel / Wechat: 13299168988&emsp;&emsp;&emsp;&emsp;&nbsp;Email: chenbenben@nwpu.edu.cn
 
 # Bio
 
