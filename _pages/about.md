@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 # Basic information
-Professor                      Address: Northwestern Polytechnical University Xi'an Shaanxi, China<br/>
-Tel / Wechat: 13299168988      Office: Room 316, School of Computer Science<br/>
+Professor&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Address: Northwestern Polytechnical University Xi'an Shaanxi, China<br/>
+Tel / Wechat: 13299168988&emsp;&emsp;&emsp;&emsp;&nbsp;Office: Room 316, School of Computer Science<br/>
 Email: chenbenben@nwpu.edu.cn
 # Bio
 
