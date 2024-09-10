@@ -53,7 +53,7 @@ Boyi Hou, Qun Chen, Yanyan Wang, Youcef Nafa, and Zhanhuai Li<br /><br />
 Zhaoqiang Chen, Qun Chen, Boyi Hou, Tianyi Duan, Zhanhuai Li and Guoliang Li<br /><br />
 **Gradual Machine Learning for Entity Resolution. WWW 2019.**[[PDF]](../assets/www2019hou.pdf)<br />
 Boyi Hou, Qun Chen, Jiquan Shen, Xin Liu, Ping Zhong, Yanyan Wang, Zhaoqiang Chen,Zhanhuai Li<br /><br />
-**Joint Inference for Aspect-Level Sentiment Analysis by Deep Neural Networks and Linguistic Hints. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019.**[[PDF]](../assets/Joint Inference for Aspect-Level Sentiment.pdf)<br />
+**Joint Inference for Aspect-Level Sentiment Analysis by Deep Neural Networks and Linguistic Hints. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019.**[[PDF]](../assets/Joint Inference for Aspect-Level Sentiment .pdf)<br />
 Yanyan Wang, Qun Chen, Murtadha Ahmed, Zhanhuai Li, Wei Pan, and Hailong Liu<br /><br />
 **Improving Machine-based Entity Resolution with Limited Human Effort: A Risk Perspective. International Workshop on Real-Time Business Intelligence and Analytics, 2018.**[[PDF]](../assets/Improving Machine-based Entity Resolution with.pdf)<br />
 Zhaoqiang Chen, Qun Chen, Boyi Hou, Murtadha Ahmed, Zhanhuai Li<br /><br />
@@ -61,7 +61,7 @@ Zhaoqiang Chen, Qun Chen, Boyi Hou, Murtadha Ahmed, Zhanhuai Li<br /><br />
 Boyi Hou, Qun Chen, Zhaoqiang Chen, Youcef Nafa, Zhanhuai Li<br /><br />
 **SenHint: A Joint Framework for Aspect-level Sentiment Analysis by Deep Neural Networks and Linguistic Hints. WWW 2018.**[[PDF]](../assets/SenHint.pdf)<br />
 Yanyan Wang, Qun Chen, Xin Liu, Murtadha Ahmed, Zhanhuai Li, Wei Pan, Hailong Liu<br /><br />
-**Enabling Quality Control for Entity Resolution: A Human and Machine Cooperation Framework. ICDE 2018.**[[PDF]](../assets/Enabling Quality Control for.pdf)<br />
+**Enabling Quality Control for Entity Resolution: A Human and Machine Cooperation Framework. ICDE 2018.**[[PDF]](../assets/Enabling Quality Control for .pdf)<br />
 Zhaoqiang Chen, Qun Chen, Fengfeng Fan, Yanyan Wang, Zhuo Wang, Youcef Nafa, Zhanhuai Li, Hailong Liu, Wei Pan<br /><br />
 **A Human-and-Machine Cooperative Framework for Entity Resolution with Quality Guarantees. ICDE 2017.**[[PDF]](../assets/A Human-and-Machine Cooperative .pdf)<br />
 Zhaoqiang Chen, Qun Chen, Zhanhuai Li
