@@ -31,27 +31,27 @@ Mar 2007 - Now. Professor and doctoral supervisor, Northwestern Polytechnical Un
 # Recent Publications
 **Few-shot Image Classification based on Gradual Machine Learning. Expert Systems with Applications, 2024.**[[PDF]](../assets/Few-shot Image Classification based on Gradual Machine Learning.pdf)<br />
 Na Chen, Xianming Kuang, Feiyu Liu, Kehao Wang, Qun Chen.<br /><br />
-**Adaptive deep learning for entity disambiguation via knowledge-based risk analysis. Expert Systems with Applications, 2024.**<br />
+**Adaptive deep learning for entity disambiguation via knowledge-based risk analysis. Expert Systems with Applications, 2024.**[[PDF]](../assets/Adaptive deep learning for entity disambiguation via knowledge-based risk.pdf)<br />
 N Chen, X Kuang, F Liu, K Wang, L Zhang, Q Chen.<br /><br />
-**Supervised Gradual Machine Learning for Aspect-Term Sentiment Analysis. Transactions of ACL (TACL), 2023.**<br />
+**Supervised Gradual Machine Learning for Aspect-Term Sentiment Analysis. Transactions of ACL (TACL), 2023.**[[PDF]](../assets/Supervised Gradual Machine Learning for Aspect-Term Sentiment Analysis.pdf)<br />
 Yanyan Wang,Qun Chen,Murtadha H.M.Ahmed,Zhaoqiang Chen,Jing Su,Wei Pan,Zhanhuai Li.<br /><br />
-**Adaptive Deep Learning for Entity Resolution by Risk Analysis.Knowledge-Based Systems(KBS), 2023.**<br />
+**Adaptive Deep Learning for Entity Resolution by Risk Analysis.Knowledge-Based Systems(KBS), 2023.**[[PDF]](../assets/Adaptive Deep Learning for Entity Resolution by Risk Analysis.pdf)<br />
 Qun Chen,Zhaoqiang Chen,Youcef Nafa,Tianyi Duan,Wei Pan,Lijun Zhang,Zhanhuai Li<br /><br />
-**Adaptive Deep Learning for Network Intrusion Detection by Risk Analysis. Neurocomputing,2022.**<br />
+**Adaptive Deep Learning for Network Intrusion Detection by Risk Analysis. Neurocomputing,2022.**[[PDF]](../assets/Adaptive Deep Learning for Network Intrusion Detection by Risk Analysis.pdf)<br />
 Lijun Zhang, Xingyu Lu, Zhaoqiang Chen, Tianwei Liu, Qun Chen, Zhanhuai Li<br /><br />
-**Active Deep Learning on Entity Resolution by Risk Sampling. Knowledge-Based Systems(KBS), 2021.**<br />
+**Active Deep Learning on Entity Resolution by Risk Sampling. Knowledge-Based Systems(KBS), 2021.**[[PDF]](../assets/Active Deep Learning on Entity Resolution by Risk Sampling.pdf)<br />
 Youcef Nafa, Qun Chen,Zhaoqiang Chen,Xingyu Lu,Tianyi Duan and Zhanhuai Li.<br /><br />
-**DNN-driven Gradual Machine Learning for Aspect-Term Sentiment Analysis. Findings of ACL, 2021.**<br />
+**DNN-driven Gradual Machine Learning for Aspect-Term Sentiment Analysis. Findings of ACL, 2021.**[[PDF]](../assets/DNN-driven Gradual Machine Learning for Aspect-Term Sentiment.pdf)<br />
 Murtadha AHMED, QUN CHEN, Yanyan Wang, Youcef Nafa, Zhanhuai Li and Tianyi Duan<br /><br />
-**Attention-enhanced Gradual Machine Learning for Entity Resolution. IEEE Intelligent Systems, 2021.**<br />
+**Attention-enhanced Gradual Machine Learning for Entity Resolution. IEEE Intelligent Systems, 2021.**[[PDF]](../assets/Attention-enhanced Gradual.pdf)<br />
 Ping Zhong, Zhanhuai Li, Qun Chen and Boyi Hou<br /><br />
-**Aspect-Level Sentiment Analysis based on Gradual Machine Learning.Knowledge-Based Systems(KBS),2021.**<br />
+**Aspect-Level Sentiment Analysis based on Gradual Machine Learning.Knowledge-Based Systems(KBS),2021.**[[PDF]](../assets/Aspect-level sentiment analysis based on gradual machine learni.pdf)<br />
 Yanyan Wang, Qun Chen, Jiquan Shen, Boyi Hou, Murtadha Ahmed, Zhanhuai Li<br /><br />
-**Gradual Machine Learning for Entity Resolution. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.**<br />
+**Gradual Machine Learning for Entity Resolution. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020.**[[PDF]](../assets/Gradual Machine Learning for Entity Resolution.pdf)<br />
 Boyi Hou, Qun Chen, Yanyan Wang, Youcef Nafa, and Zhanhuai Li<br /><br />
-**Towards Interpretable and Learn able Risk Analysis for Entity Resolution. International Conference on Management of Data (SIGMOD), 2020.**<br />
+**Towards Interpretable and Learn able Risk Analysis for Entity Resolution. International Conference on Management of Data (SIGMOD), 2020.**[[PDF]](../assets/Towards Interpretable and Learnable Risk Analysis.pdf)<br />
 Zhaoqiang Chen, Qun Chen, Boyi Hou, Tianyi Duan, Zhanhuai Li and Guoliang Li<br /><br />
-**Gradual Machine Learning for Entity Resolution. WWW 2019.**<br />
+**Gradual Machine Learning for Entity Resolution. WWW 2019.**[[PDF]](../assets/www2019hou.pdf)<br />
 Boyi Hou, Qun Chen, Jiquan Shen, Xin Liu, Ping Zhong, Yanyan Wang, Zhaoqiang Chen,Zhanhuai Li<br /><br />
 **Joint Inference for Aspect-Level Sentiment Analysis by Deep Neural Networks and Linguistic Hints. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019.**<br />
 Yanyan Wang, Qun Chen, Murtadha Ahmed, Zhanhuai Li, Wei Pan, and Hailong Liu<br /><br />
