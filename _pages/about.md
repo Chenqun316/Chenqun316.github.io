@@ -30,7 +30,7 @@ Mar 2007 - Now. Professor and doctoral supervisor, Northwestern Polytechnical Un
 
 # Recent Publications
 **Few-shot Image Classification based on Gradual Machine Learning. Expert Systems with Applications, 2024.**<br />
-Na Chen, Xianming Kuang, Feiyu Liu, Kehao Wang, Qun Chen.<br /><br />
+Na Chen, Xianming Kuang, Feiyu Liu, Kehao Wang, Qun Chen.[pdf](../assets/Few-shot Image Classification based on Gradual Machine Learning.pdf)<br /><br />
 **Adaptive deep learning for entity disambiguation via knowledge-based risk analysis. Expert Systems with Applications, 2024.**<br />
 N Chen, X Kuang, F Liu, K Wang, L Zhang, Q Chen.<br /><br />
 **Supervised Gradual Machine Learning for Aspect-Term Sentiment Analysis. Transactions of ACL (TACL), 2023.**<br />
