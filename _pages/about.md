@@ -29,8 +29,8 @@ Mar 2007 - Now. Professor and doctoral supervisor, Northwestern Polytechnical Un
   I have proposed a new non-i.i.d paradigm of machine learning, namely Gradual machine learning (GML). Given a classification task, GML begins with the easy instances, which can usually be automatically labeled by the machine with high accuracy, and then gradually labels more challenging instances based on evidential certainty by iterative factor inference. Compared with traditional i.i.d learning (e.g. deep learning), GML is more interpretable and requires less or even no manually labeled data.
 
 # Recent Publications
-**Few-shot Image Classification based on Gradual Machine Learning. Expert Systems with Applications, 2024.**<br />
-Na Chen, Xianming Kuang, Feiyu Liu, Kehao Wang, Qun Chen.[pdf](../assets/Few-shot Image Classification based on Gradual Machine Learning.pdf)<br /><br />
+**Few-shot Image Classification based on Gradual Machine Learning. Expert Systems with Applications, 2024.**[pdf](../assets/Few-shot Image Classification based on Gradual Machine Learning.pdf)<br />
+Na Chen, Xianming Kuang, Feiyu Liu, Kehao Wang, Qun Chen.<br /><br />
 **Adaptive deep learning for entity disambiguation via knowledge-based risk analysis. Expert Systems with Applications, 2024.**<br />
 N Chen, X Kuang, F Liu, K Wang, L Zhang, Q Chen.<br /><br />
 **Supervised Gradual Machine Learning for Aspect-Term Sentiment Analysis. Transactions of ACL (TACL), 2023.**<br />
