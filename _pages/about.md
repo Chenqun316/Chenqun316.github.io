@@ -28,11 +28,11 @@ Mar 2007 - Now. Professor and doctoral supervisor, Northwestern Polytechnical Un
 
   I have proposed a new non-i.i.d paradigm of machine learning, namely Gradual machine learning (GML). Given a classification task, GML begins with the easy instances, which can usually be automatically labeled by the machine with high accuracy, and then gradually labels more challenging instances based on evidential certainty by iterative factor inference. Compared with traditional i.i.d learning (e.g. deep learning), GML is more interpretable and requires less or even no manually labeled data.
 
-# Recent Publications
+# Selected Publications
 **Few-shot Image Classification based on Gradual Machine Learning. Expert Systems with Applications, 2024.**[[PDF]](../assets/Few-shot Image Classification based on Gradual Machine Learning.pdf)<br />
 Na Chen, Xianming Kuang, Feiyu Liu, Kehao Wang, Qun Chen.<br /><br />
 **Adaptive deep learning for entity disambiguation via knowledge-based risk analysis. Expert Systems with Applications, 2024.**[[PDF]](../assets/Adaptive deep learning for entity disambiguation via knowledge-based risk.pdf)<br />
-N Chen, X Kuang, F Liu, K Wang, L Zhang, Q Chen.<br /><br />
+Youcef Nafa, Qun Chen, Boyi Hou, Zhanhuai Li.<br /><br />
 **Supervised Gradual Machine Learning for Aspect-Term Sentiment Analysis. Transactions of ACL (TACL), 2023.**[[PDF]](../assets/Supervised Gradual Machine Learning for Aspect-Term Sentiment Analysis.pdf)<br />
 Yanyan Wang,Qun Chen,Murtadha H.M.Ahmed,Zhaoqiang Chen,Jing Su,Wei Pan,Zhanhuai Li.<br /><br />
 **Adaptive Deep Learning for Entity Resolution by Risk Analysis.Knowledge-Based Systems(KBS), 2023.**[[PDF]](../assets/Adaptive Deep Learning for Entity Resolution by Risk Analysis.pdf)<br />
@@ -55,13 +55,5 @@ Zhaoqiang Chen, Qun Chen, Boyi Hou, Tianyi Duan, Zhanhuai Li and Guoliang Li<br 
 Boyi Hou, Qun Chen, Jiquan Shen, Xin Liu, Ping Zhong, Yanyan Wang, Zhaoqiang Chen,Zhanhuai Li<br /><br />
 **Joint Inference for Aspect-Level Sentiment Analysis by Deep Neural Networks and Linguistic Hints. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019.**[[PDF]](../assets/Joint Inference for Aspect-Level Sentiment .pdf)<br />
 Yanyan Wang, Qun Chen, Murtadha Ahmed, Zhanhuai Li, Wei Pan, and Hailong Liu<br /><br />
-**Improving Machine-based Entity Resolution with Limited Human Effort: A Risk Perspective. International Workshop on Real-Time Business Intelligence and Analytics, 2018.**[[PDF]](../assets/Improving Machine-based Entity Resolution with.pdf)<br />
-Zhaoqiang Chen, Qun Chen, Boyi Hou, Murtadha Ahmed, Zhanhuai Li<br /><br />
-**r-HUMO: A Risk-aware Human-Machine Cooperation Framework for Entity Resolution with Quality Guarantees. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2018.**[[PDF]](../assets/rhumo.pdf)<br />
-Boyi Hou, Qun Chen, Zhaoqiang Chen, Youcef Nafa, Zhanhuai Li<br /><br />
-**SenHint: A Joint Framework for Aspect-level Sentiment Analysis by Deep Neural Networks and Linguistic Hints. WWW 2018.**[[PDF]](../assets/SenHint.pdf)<br />
-Yanyan Wang, Qun Chen, Xin Liu, Murtadha Ahmed, Zhanhuai Li, Wei Pan, Hailong Liu<br /><br />
-**Enabling Quality Control for Entity Resolution: A Human and Machine Cooperation Framework. ICDE 2018.**[[PDF]](../assets/Enabling Quality Control for .pdf)<br />
-Zhaoqiang Chen, Qun Chen, Fengfeng Fan, Yanyan Wang, Zhuo Wang, Youcef Nafa, Zhanhuai Li, Hailong Liu, Wei Pan<br /><br />
-**A Human-and-Machine Cooperative Framework for Entity Resolution with Quality Guarantees. ICDE 2017.**[[PDF]](../assets/A Human-and-Machine Cooperative .pdf)<br />
-Zhaoqiang Chen, Qun Chen, Zhanhuai Li
+
+
